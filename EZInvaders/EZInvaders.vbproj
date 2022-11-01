@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BC3A5C45-EC80-4F64-8E67-26F54398AEBE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SpaceAliens.MainForm</StartupObject>
+    <RootNamespace>SpaceAliens</RootNamespace>
+    <AssemblyName>Space Aliens</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Space Aliens.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Space Aliens.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Boss2.Designer.vb">
+      <DependentUpon>Boss2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Boss2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructions.Designer.vb">
+      <DependentUpon>Instructions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Instructions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LastForm.Designer.vb">
+      <DependentUpon>LastForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LastForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash1.Designer.vb">
+      <DependentUpon>Splash1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash2.Designer.vb">
+      <DependentUpon>Splash2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stage2.Designer.vb">
+      <DependentUpon>Stage2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stage2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boss1.Designer.vb">
+      <DependentUpon>Boss1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Boss1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash3.Designer.vb">
+      <DependentUpon>Splash3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stage3.Designer.vb">
+      <DependentUpon>Stage3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stage3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Stage1.designer.vb">
+      <DependentUpon>Stage1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stage1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Boss2.resx">
+      <DependentUpon>Boss2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructions.resx">
+      <DependentUpon>Instructions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LastForm.resx">
+      <DependentUpon>LastForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash1.resx">
+      <DependentUpon>Splash1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash2.resx">
+      <DependentUpon>Splash2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stage2.resx">
+      <DependentUpon>Stage2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boss1.resx">
+      <DependentUpon>Boss1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash3.resx">
+      <DependentUpon>Splash3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stage3.resx">
+      <DependentUpon>Stage3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stage1.resx">
+      <DependentUpon>Stage1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shooter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Invader.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dead.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hit.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Intro.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shot.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spaceinvaders2.ram" />
+    <None Include="Resources\Win.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pictures of the project.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pictures of the project.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ndumi.png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ndu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sfiso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpaceBoss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explode.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\myship.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ship2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ship3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ship4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple_nebula-t2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ship7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vlcsnap-2019-01-10-01h12m18s992.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoot.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DONE.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FRB.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i98vXju.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REDBOSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Explosion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\song.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\song2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a-keyboard-button-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a-set-of-arrow-keys-5a293630d32cf2_989623511512650288865.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controlKeys.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\william1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\william2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F5S4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tenor.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shootig2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shooting1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inv1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inv2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shootig2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shooting1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fIiL0f3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-sprite-spaceshoter-catch-the-fruit-spacecraft-2d-c-alien-5ab7f7c338bd43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Effect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WMPAUD2.WAV" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

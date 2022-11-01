@@ -1,0 +1,76 @@
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\bin\Debug\EZInvaders.exe
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\bin\Debug\EZInvaders.pdb
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\bin\Debug\EZInvaders.xml
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.Resources.resources
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.FormMain.resources
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.exe
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.xml
+C:\Users\admin\Desktop\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.pdb
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.exe
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.xml
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.pdb
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\bin\Debug\EZInvaders.exe
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\bin\Debug\EZInvaders.pdb
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\bin\Debug\EZInvaders.xml
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.Resources.resources
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.FormMain.resources
+C:\Users\CHIEF\Downloads\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.vbproj.GenerateResource.Cache
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.exe
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.xml
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.pdb
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\bin\Debug\EZInvaders.exe
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\bin\Debug\EZInvaders.pdb
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\bin\Debug\EZInvaders.xml
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.Resources.resources
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.FormMain.resources
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.vbproj.GenerateResource.Cache
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.form2.resources
+C:\Users\LaSavage\Videos\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.form3.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.vbproj.GenerateResource.Cache
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\bin\Debug\Space Aliens.exe
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\bin\Debug\Space Aliens.pdb
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\bin\Debug\Space Aliens.xml
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Boss2.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Form1.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Instructions.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.LastSplash.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Splash1.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.MainForm.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Splash2.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Stage2.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Boss1.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Splash3.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Stage3.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Resources.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Stage1.resources
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.exe
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.xml
+C:\Users\MHLONGO S\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.pdb
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.exe
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.xml
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.pdb
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\bin\Debug\Space Aliens.exe
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\bin\Debug\Space Aliens.pdb
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\bin\Debug\Space Aliens.xml
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Boss2.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Form1.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Instructions.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.LastSplash.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Splash1.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.MainForm.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Splash2.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Stage2.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Boss1.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Splash3.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Stage3.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Resources.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\SpaceAliens.Stage1.resources
+C:\Users\CHI3F\Desktop\EZInvaders\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.vbproj.GenerateResource.Cache
+C:\Users\Siyabonga.Khwela\Downloads\Space Aliens\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.vbproj.AssemblyReference.cache
+C:\Users\Siyabonga.Khwela\Downloads\Space Aliens\EZInvaders\EZInvaders\obj\x86\Debug\EZInvaders.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Siyabonga.Khwela\Downloads\Space Aliens\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.exe
+C:\Users\Siyabonga.Khwela\Downloads\Space Aliens\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.xml
+C:\Users\Siyabonga.Khwela\Downloads\Space Aliens\EZInvaders\EZInvaders\obj\x86\Debug\Space Aliens.pdb
